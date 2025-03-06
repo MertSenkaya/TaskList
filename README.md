@@ -11,3 +11,12 @@ Koyu ve açık tema desteği
 Bildirim ve hatırlatıcılar
 Yerel veri saklama ile çevrimdışı çalışma
 
+Yol Haritası
+
+ Temel görev yönetimi
+ Kategoriler
+ Koyu/açık tema desteği
+ iCloud senkronizasyonu
+ Görevleri paylaşma özelliği
+ Yinelenen görevler
+ Widget desteği
